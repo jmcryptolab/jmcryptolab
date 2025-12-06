@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Dr. Jumei Zhang
 
-<!--
-**jmcryptolab/jmcryptolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Post-Quantum Cryptography Researcher**  
+🧮 **Focus Areas:** PQ signatures, lattice trapdoors, NI-SDVMS, Attribute-Based Signatures  
+📚 **PhD Researcher, Xidian University**  
+🏫 **Associate Professor, Weinan Normal University**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Research Interests
+- Lattice-based digital signatures  
+- Succinct trapdoor sampling  
+- Non-interactive strong designated-verifier multi-signatures (NI-SDVMS)  
+- Hybrid KEM + signature design  
+- Attribute-based signatures (ABS, R-ABS)  
+- Blockchain cryptography  
+
+---
+
+### 🧪 Current Projects
+- NI-SDVMS: PQ multi-signature scheme  
+- Slotted registered ABS under ℓ-succinct LWE  
+- Blind signatures & PSI  
+- PQ authentication for smart grid systems  
+
+---
+
+### 📫 Contact
+欢迎合作交流。
