@@ -20,8 +20,8 @@
 ### 🧪 Current Projects
 - NI-SDVMS: PQ multi-signature scheme  
 - Slotted registered ABS under ℓ-succinct LWE  
-- Blind signatures & PSI  
-- PQ authentication for smart grid systems  
+- Blind signatures 
+- PSI  
 
 ---
 
